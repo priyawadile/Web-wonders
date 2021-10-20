@@ -7,7 +7,8 @@ A week long web development boot camp where you'll learn from ground zero along 
 💥Register yourself now and don't miss out this opportunity💥 <br>
 Link:- https://forms.gle/2kMm779CqDtANz6r8<br>
 The three best performers will receive exciting Swags!!!🎁<br>
-✨Date:- 20th October to 26th October✨<br>
+✨Date:- 20th October to 26th October✨<br><br>
+  Check out the <a href="https://github.com/gdsc-umit/Web-wonders/blob/main/CONTRIBUTION.md">Contribution Guidelines</a>!
   </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65829453/137866979-d2600380-4e50-4dde-a2b0-348b61d1a48b.png">
